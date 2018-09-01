@@ -1,2 +1,2 @@
 # java-programs
-wipro training
+training
